@@ -13,7 +13,7 @@ Use this repository **only as a reference** if you get stuck.
 
 Before starting, **watch the Databricks Bootcamp**, where I explain the architecture and decisions behind this project.
 
-- 🧭 Notion Roadmap: [Open guide](https://candle-gosling-511.notion.site/Project-Building-the-Bike-Data-Lakehouse-2e734b251f1280ab8dadc269e033cc38?source=copy_link)
+- 🧭 Notion Roadmap: [Open guide](https://www.notion.so/Project-Building-the-Bike-Data-Lakehouse-2ee1aa4b362e81b5ba37c7f6fca4cba2?source=copy_link)
 - ▶️ Databricks Bootcamp: [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZoxVkw-KPhcmgLWjHWVUc9)
   
 ---
